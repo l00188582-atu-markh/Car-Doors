@@ -1,0 +1,16 @@
+D:\CarDoors\CarDoors\CarDoors\bin\Debug\net5.0\CarDoors.exe
+D:\CarDoors\CarDoors\CarDoors\bin\Debug\net5.0\CarDoors.deps.json
+D:\CarDoors\CarDoors\CarDoors\bin\Debug\net5.0\CarDoors.runtimeconfig.json
+D:\CarDoors\CarDoors\CarDoors\bin\Debug\net5.0\CarDoors.runtimeconfig.dev.json
+D:\CarDoors\CarDoors\CarDoors\bin\Debug\net5.0\CarDoors.dll
+D:\CarDoors\CarDoors\CarDoors\bin\Debug\net5.0\ref\CarDoors.dll
+D:\CarDoors\CarDoors\CarDoors\bin\Debug\net5.0\CarDoors.pdb
+D:\CarDoors\CarDoors\CarDoors\obj\Debug\net5.0\CarDoors.csprojAssemblyReference.cache
+D:\CarDoors\CarDoors\CarDoors\obj\Debug\net5.0\CarDoors.GeneratedMSBuildEditorConfig.editorconfig
+D:\CarDoors\CarDoors\CarDoors\obj\Debug\net5.0\CarDoors.AssemblyInfoInputs.cache
+D:\CarDoors\CarDoors\CarDoors\obj\Debug\net5.0\CarDoors.AssemblyInfo.cs
+D:\CarDoors\CarDoors\CarDoors\obj\Debug\net5.0\CarDoors.csproj.CoreCompileInputs.cache
+D:\CarDoors\CarDoors\CarDoors\obj\Debug\net5.0\CarDoors.dll
+D:\CarDoors\CarDoors\CarDoors\obj\Debug\net5.0\ref\CarDoors.dll
+D:\CarDoors\CarDoors\CarDoors\obj\Debug\net5.0\CarDoors.pdb
+D:\CarDoors\CarDoors\CarDoors\obj\Debug\net5.0\CarDoors.genruntimeconfig.cache
